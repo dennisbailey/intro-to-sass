@@ -1,0 +1,28 @@
+.center {
+  text-align: center; }
+
+body {
+  background: #4178bf; }
+
+form {
+  background: grey;
+  padding: 20px; }
+
+p {
+  color: white; }
+  p a {
+    color: white; }
+
+.wrapper {
+  margin: auto;
+  width: 60%; }
+  .wrapper h1 {
+    color: white;
+    font-size: 24px; }
+  .wrapper .form-fields {
+    background: grey; }
+    .wrapper .form-fields label {
+      font-size: 18px; }
+    .wrapper .form-fields input {
+      margin: auto;
+      width: 90%; }

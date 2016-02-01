@@ -1,0 +1,49 @@
+$standard-font-size: 24px;
+$primary: #34A5DA;
+$light: #FECB57;
+
+.center {
+  text-align: center;
+}
+
+body {
+  background: #4178bf;
+}
+
+form {
+  background: grey;
+  padding: 20px;
+  
+}
+
+p {
+  color: white;
+  a {
+    color: white;
+  }
+}
+
+.wrapper {
+  margin: auto;
+  width: 60%;
+  
+  h1 {
+    color: white;
+    font-size: $standard-font-size;
+  }
+  
+  .form-fields {
+    background: grey;
+    
+    label {
+    font-size: 18px;
+    }
+  
+    input {
+      margin: auto;
+      width: 90%;
+    }
+
+  }
+  
+}
